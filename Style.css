@@ -1,0 +1,13 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=h1, initial-scale=1.0">
+ 
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<p>shows the basic structure used by most HTML tags. First, there’s an opening tag that looks like <h1>, where the angle brackets < and > surround the tag name (in this case, h1). After the content, there’s a closing tag that’s the same as the opening tag, except with an extra slash after the opening angle bracket: </h1>. (Note that, as with addresses on the World Wide Web, this is a slash, not a backslash (a common confusion humorously referenced in the xkcd comic strip “Trade expert”</p>
+
+</body>
+</html>
